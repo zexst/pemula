@@ -1,0 +1,34 @@
+{
+     "prefix": "!",
+     "namalu" : "PASYA",
+     "nomerlu": "13052396672",
+     "namabot": "WIBU BOT",
+     "nomerbot": "13052396672",
+     "gender" : "laki²",
+     "copyright" : "Extream",
+     "multi": false,
+     "onepref" : true,
+     "publik": true,
+     "forwarding": true,
+     "antitroli" : true,
+     "autovn" : true,
+     "autosticker" : false,
+     "autorespon" : true,
+     "autotyping" : false,
+     "chatBot" : false,
+     "autoread" : true,
+     "teksChat" : "Gada menu",
+     "totalForward" : 1000000,
+     "gamewaktu": 60,
+	"limitCount": 30,
+	"gcount": {
+		"prem": 40,
+		"user": 20
+},
+     "lolkey": "3a5fadc9dfb7b4b1f2a5a8e3",
+     "zeks": "officialdittaz", 
+     "xteam": "170342e43e147afa"
+}
+
+   
+   
